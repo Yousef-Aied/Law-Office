@@ -34,7 +34,7 @@ header {
     background-image: url(../images/h5-parallax-4.jpg);
     background-position: 12% -144px;
     padding-left: 123px!important;
-    height: 300px;
+    height: auto;
     background-attachment: fixed;
 }
 .py-3 p{
